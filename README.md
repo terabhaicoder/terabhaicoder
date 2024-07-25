@@ -48,7 +48,7 @@
 
 ###
 
-<p align="left">Social Media:</p>
+<p align="left">Socials:</p>
 
 ###
 
