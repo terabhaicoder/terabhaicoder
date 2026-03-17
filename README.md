@@ -1,65 +1,29 @@
-<h2 align="left">Hi, I'm Paarth Panthri</h2>
+# hey, i'm paarth.
 
-###
+software developer who likes building things that work and shipping them before they're perfect.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=terabhaicoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=terabhaicoder&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
- 
+currently at **august innovate**, building workflow engines, document pipelines, and llm-powered systems. previously spent 4 years at **vit vellore** figuring out what i wanted to do with computers.
+
+#### things i've built
+
+| project | what it does |
+|---------|-------------|
+| [**applysurge**](https://applysurge.com) | automates your entire job search. finds jobs, fills apps, answers screening questions. |
+| [**eventzity**](https://eventzity.com) | india's first event service marketplace. plan, book, celebrate. |
+| [**procesync**](https://procesync.ai) | keeps your data in sync across tools, quietly in the background. |
+| [**processpay**](https://processpay.ai) | payment infrastructure for startups. |
+
+#### what i work with
+
+`python` `typescript` `react` `node.js` `fastapi` `next.js` `postgresql` `mongodb` `redis` `kafka` `docker` `langchain`
+
+#### stats
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=terabhaicoder&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=terabhaicoder&locale=en&mode=daily&theme=github-dark-blue&hide_border=true&border_radius=5" height="150" alt="streak graph" />
 </div>
 
-###
+---
 
-<p align="left">Languages and tools I've worked with:</p>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="javascript logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" alt="typescript logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" alt="react logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css3 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70" alt="nodejs logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="70" alt="mongodb logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="70" alt="tailwindcss logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="70" alt="cplusplus logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="70" alt="nextjs logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="70" alt="express logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" alt="vscode logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="git logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70" alt="mysql logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="70" alt="npm logo"  />
-</div>
-
-###
-
-<p align="left">Socials:</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/paarth-panthri-1b01b2317/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTk5NWc2cW94dXh1N2w1OWdnMnlmOHgwbnEzZHNsem9sYzFva2cwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aer096d3vD4rYVsgNn/giphy.gif"  />
-
-###
+<a href="https://paarthpanthri.com">paarthpanthri.com</a> · <a href="https://www.linkedin.com/in/paarth-panthri-1b01b2317/">linkedin</a> · <a href="https://x.com/paarthpanthri">twitter</a>
