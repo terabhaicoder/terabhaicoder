@@ -1,29 +1,24 @@
-# hey, i'm paarth.
+# Paarth Panthri
 
-software developer who likes building things that work and shipping them before they're perfect.
+I build backend systems and ship full-stack products at early-stage startups.
 
-currently at **august innovate**, building workflow engines, document pipelines, and llm-powered systems. previously spent 4 years at **vit vellore** figuring out what i wanted to do with computers.
+Software developer at **August Innovate**, working on workflow engines, document pipelines, and LLM-powered extraction systems. Previously spent 4 years at **VIT Vellore** figuring out what to do with computers.
 
-#### things i've built
+**Currently:** event-driven pipelines, multi-model LLM extraction, and making Kafka behave
 
-| project | what it does |
-|---------|-------------|
-| [**applysurge**](https://applysurge.com) | automates your entire job search. finds jobs, fills apps, answers screening questions. |
-| [**eventzity**](https://eventzity.com) | india's first event service marketplace. plan, book, celebrate. |
-| [**procesync**](https://procesync.ai) | keeps your data in sync across tools, quietly in the background. |
-| [**processpay**](https://processpay.ai) | payment infrastructure for startups. |
+**Previously:** shipping MVPs, building marketplaces, and automating job applications
 
-#### what i work with
+#### Projects
 
-`python` `typescript` `react` `node.js` `fastapi` `next.js` `postgresql` `mongodb` `redis` `kafka` `docker` `langchain`
+- [**ApplySurge**](https://applysurge.com) — automates your entire job search
+- [**Eventzity**](https://eventzity.com) — india's first event service marketplace
+- [**Procesync**](https://procesync.ai) — keeps data in sync across tools
+- [**ProcessPay**](https://processpay.ai) — payment infrastructure for startups
 
-#### stats
+#### Stack
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=terabhaicoder&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=terabhaicoder&locale=en&mode=daily&theme=github-dark-blue&hide_border=true&border_radius=5" height="150" alt="streak graph" />
-</div>
+Python, TypeScript, FastAPI, React, Node.js, Next.js, PostgreSQL, MongoDB, Redis, Kafka, Docker, LangChain
 
 ---
 
-<a href="https://paarthpanthri.com">paarthpanthri.com</a> · <a href="https://www.linkedin.com/in/paarth-panthri-1b01b2317/">linkedin</a> · <a href="https://x.com/paarthpanthri">twitter</a>
+[paarthpanthri.com](https://paarthpanthri.com) · [linkedin](https://www.linkedin.com/in/paarth-panthri-1b01b2317/) · [twitter](https://x.com/paarthpanthri)
